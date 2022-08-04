@@ -16,7 +16,7 @@
 
     @include("navbar")
 
-
+     @include('flash-message')
 
 
     @yield("main")
